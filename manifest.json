@@ -1,0 +1,30 @@
+{
+    "manifest_version": 3,
+    "name": "SmartPing Call Extension",
+    "version": "1.0",
+    "icons": {
+    "16": "hulk.png"
+    },
+    "permissions": [   
+    "contextMenus",
+    "tabs",
+    "activeTab",
+    "scripting",
+    "clipboardRead",
+    "clipboardWrite"
+  ],
+    "host_permissions": [
+      "https://ccs.smartpingcc.io/*",
+      "https://docs.google.com/*"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["content.js"]
+      }
+    ]
+  }
+  
