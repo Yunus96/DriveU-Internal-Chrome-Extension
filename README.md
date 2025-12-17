@@ -17,3 +17,8 @@ This extension is used by On-trip team. One of the core internal team of DriveU.
 7.  Congratulations! Now you have successfully installed this extension
 
 ### How to use ?
+
+1. Make sure DriveU's Hulk and SmartPing tab is open and you have logged in.
+2. Now copy customer/driver contact number
+3. Now right click > click on DriveU icon > click on "Call"
+4. Boom! This extension initiates the call in smartPing tab.
