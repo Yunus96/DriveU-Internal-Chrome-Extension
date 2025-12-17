@@ -8,4 +8,12 @@ This extension is used by On-trip team. One of the core internal team of DriveU.
 
 ### How to install ?
 
-1. 
+1.  Clone this repo ```git clone https://github.com/Yunus96/DriveU-Internal-Chrome-Extension.git```
+2.  Now you will find folder by name **DriveU-Internal-Chrome-Extension**
+3.  Now in Chrome browser click on **3 dots** on top right and then click on **Extensions**
+4.  Now under **Extensions** click on **Manage Extensions** this will open a new tab.
+5.  Under this new tab > toggle the **developer mode** and
+6.  On top left click **Load unpacked** button this will open file explorer. Now select the folder which you have got in **step 1**
+7.  Congratulations! Now you have successfully installed this extension
+
+### How to use ?
